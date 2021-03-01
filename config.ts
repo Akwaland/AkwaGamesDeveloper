@@ -26,14 +26,15 @@ const siteMetadata = {
             name: "ABOUT",
             url: "/about",
         },
-        {
-            name: "BLOG",
-            url: "/blog",
-        },
+      
    
         {
             name: "PORTFOLIO",
             url: "/portfolio",
+        },
+        {
+            name: "BLOG",
+            url: "/blog",
         },
         {
             name: "CONTACT",
